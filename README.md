@@ -9,7 +9,6 @@ This is a C program that performs **addition**, **subtraction**, and **multiplic
 - ✅ Arbitrary-length integer support (up to 309 digits)
 - ➖ Handles **negative numbers** gracefully
 - 🔄 Removes leading zeros in output
-- ❌ Prints error when digit limit is exceeded
 - 📏 Purely implemented using string manipulation
 - 🔢 Supports:
   - Addition
@@ -22,8 +21,7 @@ This is a C program that performs **addition**, **subtraction**, and **multiplic
 
 - How to simulate **BigInteger arithmetic** using strings in C
 - Manual handling of carries, borrows, and sign management
-- Buffer size limitations and validation
-- Input sanitization and formatting
+
 
 ---
 
